@@ -2,7 +2,7 @@
 
 This repository contains the code i do .
 
-|id               | Name            | type     |execution|count| proplem    | link   |
+|Id               | Name            | Type     |Execution|Count| Proplem    | Link   |
 |:---------------:|:---------------:|:--------:|:-------:|:---:|:----------:|:------:|
 |1                |       -         |    -     |       - |    -|      -     |[link](-)|
 |2                |       -         |    -     |       - |    -|      -     |[link](-)|
